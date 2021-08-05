@@ -1,5 +1,7 @@
 # Master-Micro-Software-Engineering-Intern-Summer-2021
-a Python GUI program that plots arbitrary user-entered functions.
+a Python GUI program that plots arbitrary user-entered functions. 
+
+  PHOTOS IN README.md FILE IS DIFFERENT THAN PHOTOS IN THE SCREENSHOTS FOLDER
 
 Requirements
   Write a Python GUI program that plots arbitrary user-entered function.

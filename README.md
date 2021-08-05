@@ -1,7 +1,7 @@
 # Master-Micro-Software-Engineering-Intern-Summer-2021
 a Python GUI program that plots arbitrary user-entered functions. 
 
-  PHOTOS IN README.md FILE IS DIFFERENT THAN PHOTOS IN THE SCREENSHOTS FOLDER
+    PHOTOS IN README.md FILE IS DIFFERENT THAN PHOTOS IN THE SCREENSHOTS FOLDER
 
 Requirements
   Write a Python GUI program that plots arbitrary user-entered function.
@@ -19,6 +19,8 @@ Requirements
   The following operators must be supported: + - / * ^.
   
   ![11](https://user-images.githubusercontent.com/46425858/128349290-22339952-ffae-4ef3-9634-7736f9288554.png)
+  
+    MAYBE LATER I'LL ADD MORE FUNCTIONS
 
   The GUI should be simple and beautiful (well organized).
   

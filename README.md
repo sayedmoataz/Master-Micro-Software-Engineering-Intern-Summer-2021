@@ -57,7 +57,7 @@ Requirements
     
   You must test your program using pytest and pytest-qt. Include the testing codes in your repository.
     
-    MAYBE DONE 
+    DONE 
   
   Your code should be well organized and well documented.
     
